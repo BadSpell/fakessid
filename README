@@ -1,1 +1,4 @@
-Usage: %s [interface] [ssid]
+# fakessid
+BoB 6th network assignment
+
+Usage: ./fakessid [interface] [ssid]
